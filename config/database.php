@@ -93,7 +93,7 @@ return [
 
         'mongodb' => [
             'driver' => 'mongodb',
-            'dsn' => 'mongodb+srv://integradora:equipo49a@integradora.11lka.mongodb.net/<dbname>?retryWrites=true&w=majority',
+            'dsn' => 'mongodb+srv:///<dbname>?retryWrites=true&w=majority',
             'database' => 'integradora'
         ]
 
